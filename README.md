@@ -460,19 +460,3 @@ Run the task through the five dimensions: decomposability, parallelism needs, st
 The best architecture is the simplest one that meets your production requirements. For most teams, that bar is lower than the architecture they initially reach for.
 
 No matter which architecture you choose, the platform you run it on matters. [Omnithium](https://omnithium.ai) gives teams a single control plane for both single-agent and multi-agent workflows, with built-in observability, governance, and cost tracking. [Explore Omnithium’s pricing](https://omnithium.ai/pricing) to find a plan that fits your scale.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/multi-agent-vs-single-agent).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
